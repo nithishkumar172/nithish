@@ -1,2 +1,2 @@
 # nithish
-<a href="./portfolio.html">portfoli</a>
+<a href="./portfolio.html">portfolio</a>
